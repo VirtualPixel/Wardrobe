@@ -1,0 +1,10 @@
+{
+  "name": "Wardrobe",
+  "version_number": "1.0.0",
+  "website_url": "https://github.com/VirtualPixel/Wardrobe",
+  "description": "Outfit presets for R.E.P.O. cosmetics. Save looks in folders, swap them on an in-game wheel, share outfit codes, 150+ ready-made costumes. Never unlocks anything. Combines your cosmetic coins and backs up your save.",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2305",
+    "nickklmao-MenuLib-2.5.4"
+  ]
+}

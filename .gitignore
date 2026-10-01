@@ -1,0 +1,42 @@
+# Build output
+bin/
+obj/
+*.dll
+*.pdb
+BuildInfo.g.cs
+BuildZip/
+
+# IDE
+.vs/
+.vscode/
+.idea/
+*.user
+
+# Knowledge graph output
+graphify-out/
+
+# Saves and anything read out of them
+*.es3
+*.es3.bak
+MetaSave*
+current_MetaSave*.json
+backups/
+
+# Game code and data: decompiles, game DLLs, ripped assets and dumps stay local
+Game Code/
+decompiled*/
+ExportedProject/
+scripts/cosmetics.json
+scripts/es3.py
+scripts/inspect_saves.py
+scripts/validate.py
+scripts/build_table.py
+
+# Art and audio that is not ours to publish
+*.wav
+*.ogg
+*.mp3
+*.png
+!media/*.png
+*.gif
+!media/*.gif

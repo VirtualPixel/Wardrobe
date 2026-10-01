@@ -1,0 +1,258 @@
+# Every look presets.default.cfg has shipped, as the fingerprint of what it wears and its name.
+# Before 1.0.0 that file was copied into presets.cfg once, so a copy of any of these in there
+# is Wardrobe's look and not an edit. Shipped looks come from the DLL now and are never copied,
+# but a look that changes still gets its new print added here, a test checks.
+
+012538705836fcf0 Shaggy
+01b3eaf1460251bf Patrick Star
+02fc1b2b286bcf0a Joanna Dark
+044e7f90470fadd0 Jaws
+0520d57f7742b8d2 Fire Luigi
+05d7f2a89698a846 Cuphead
+0850cb19d1048467 Batman
+08990522e8aa0c71 Mr. Burns
+08b70c1292a16ea8 Jaws
+099effb2294f244c Elvis
+0a0209b3ec8ef2c1 Chucky
+0a89a038d8a76390 Gruntilda
+0b7673221c5cee0a Pete
+0dae113b32d41623 Pennywise
+0e983df704972c0b Grinch
+0ee13ff57f206947 Daphne
+0f86520379abc63e Cuphead
+1158e996d0a02b88 Velma
+117561f1ad533b03 Great Mighty Poo
+12953c8a0c9f9a65 Lara Croft
+12aebf013432805c Banjo
+13a067decec756bc Lupus
+13a3ba055321ff0d Captain America
+14ac2bf8493b533a Goku
+1672afa005024541 Goofy
+16bc1c53ee62c971 Elf
+1900200a2454a7ac Zoidberg
+198386798414edba Skeleton
+1bca09863dea6385 Conker
+1d0984cb67059a5a Mr. Burns
+1da96c6f053a0afe Great Mighty Poo
+20294eaa3473df51 Kirby
+210c884b1908b791 Mummy
+225150b72508b007 Pete
+22dcfdeaf5408bf8 Goku (Super Saiyan)
+247980409cd620ab Goofy
+24f6fdebe6142739 Cheddar Lord
+25034970ff714f55 Mr. Krabs
+254ec9876a8bcbea Void Knight
+275d736518b1bff1 Princess Peach
+276133ec7ff35c24 Chef
+2942402fe426426c Hulk
+2a07d3864a0fca5b Zoidberg
+2b355650cf2acf68 Moose
+2b74f061e2fe86bb Link
+2bb1152686d2945c Weeping Angel
+2d30d864b915b862 Luigi
+2e45d93dc69a706e Frankenstein
+2f711061ea130af3 Frost Ranger
+3074b10bd8d391a4 Chewbacca
+307cac2a76245406 James Bond
+30dfeb971d0ddfae Michael Myers
+3209a0f58a0b941c Squid Game Guard
+32393d0f2d3e2739 Dwight Schrute
+3506120a399a4097 Squid Game Guard
+3516fff0052caac4 Optimus Prime
+3590130199ea5e51 Neo
+36fc10d3032e8694 Santa
+3738d0087c27f810 Mizar
+37d617b2a2aee13f Ghostbuster
+39079013796c3893 Mario
+39ce253365594483 Steve
+3a905ed0018a822f Waldo
+3ad6ac3402b54417 Harley Quinn
+3c241a742b694d39 Lupus
+3c8e46d96c75d7cd Leela
+3cdb67031144bb1f Gilded King
+3cfdf2cbc87d31cf Deadpool
+3ddd29d6400b87c5 Elf
+3de49c9ff9ba8ba8 Scooby-Doo
+3ebbbd07743293d6 Superman
+426c10f12adf829f Bee
+443fb20e12f8440f Yoshi
+44b13d0ce61a6586 Jack-o-lantern
+46787bad8baf4821 Juno
+46ba6318b21a83f1 Naruto
+46d0441e33e63eaf Mr. Krabs
+46dfecaf0bb24ce8 Minion
+4843cf81f6d641e6 Daniel Carrington
+495f91ad1c71dd42 Punk
+49d3e15b8170664e Kirby
+4b7312077d7b3405 Morty
+4c2a23132a714c83 Mario
+4c5dd4f1b58ec0ed Sans
+4dd04ef9240344c9 Link
+4e35ec92ad5bcbb2 Warlord
+4f910ba4784cfe0c Eleventh Doctor
+4fa0320df719d4f5 Fire Luigi
+51269a353fd9d696 Wile E. Coyote
+526154fd2307f7e6 Lara Croft
+5506b2aedc2aab7d Plankton
+55823f7ea7cc3060 Tediz
+56129be2713d75f4 Squid Game Guard
+56715b74efed32f3 Wario
+57e4d3d2421a2168 Mumbo Jumbo
+585e3ac462bc580c Rick Sanchez
+5867a546d134d751 Kratos
+59ed05b1eda28777 Chef
+5a9f499279c36450 Goku (Super Saiyan)
+5c385efb5806a023 Fred
+5cee7809c9061a11 Iron Man
+5e897e847bcb95f0 Construction Worker
+5f78663d894745de Werewolf
+60ba90cff5e09d2a Bob Ross
+61a8290cde2234a0 Donald Duck
+625b9755975c7899 Marge Simpson
+63a6b3c4718db6b5 Bottles
+63dfddb3a2098e97 Luffy
+643093f2d36d693b Optimus Prime
+6471898e776884e6 Leprechaun
+67539031b7d972ea Among Us
+67eb1608d0f6dd4d Sans
+68c63c05e9d04ba2 Deadpool
+698f476a99a898ae Joker
+6aad87cb9eec0224 Arcane Sage
+6c6295ecfe8b21ef Natalya
+6df611950e9ff5c0 Neon Ghost
+712005cc081177b3 Iron Man
+7313a44b78ed2cf2 Waluigi
+7497bbbba723a1d3 Ninja Turtle
+759330f3a0991010 Luigi
+777de74b01938232 Ninja Turtle
+77afbd6e7b2e1fe0 Chucky
+782e90d04ffa7952 Chrome Wrangler
+7935a9ecea04abbd Circuit Breaker
+7b17fb8426dac8e2 Wario
+7b2fc1d4cccf3401 Donald Duck
+7b46c496c1e3fab7 Elite Enforcer
+7b98d9858de94d7a Freddy Krueger
+7c606782478d242d Road Runner
+7d55bc38d0d8b672 Alec Trevelyan
+7e6a34973e9ba58a Cow
+7f0fb9b7e4480ef4 Taz
+7f6a2d7ea45f2f20 Tenth Doctor
+806f46988f6c942e Hulk
+80bc76c0dae06160 Fred
+8109252ab9a234ff Perry the Platypus
+814fb9fa52efba8f Fire Mario
+84c1b4099357724b Daffy Duck
+8707531c7d783624 Heisenberg
+879ff87271c5392e Bob Ross
+8896b9208a8b3036 Gandalf
+8a4d5ddd6ec0dce6 Vela
+8b298db5fa9ea455 Luigi
+8c0e225c34a97dd2 Harry Potter
+8cb791d42bc388f5 Dracula
+8e6e3c3466ff69f4 Yarn Golem
+8facab85440a64da Bottles
+8ffed3b22fff3d00 Fry
+909094efb965dd77 Spider-Man
+910470a756155cf1 Banjo
+915397aa2a1039cb Vegeta
+92799dbc93d8044d Bugs Bunny
+939fd7ec5bb89688 Easter Bunny
+94ae907958370020 Yoda
+94af55e9ac9bc66c Woody
+94e263f9ab0861b0 Natalya
+96d8ba3b5f1b2b42 Superman
+98f0e3d53492d2d5 James Bond
+9c66b2ccb6d0288b Rick Sanchez
+9c9debf201b96f15 Velma
+9ca565d98af7e44e Construction Worker
+9dc71d50ebad5c49 Tenth Doctor
+9dd49334c2094019 Shaggy
+a018f81c7a2c7133 Grinch
+a05deee244645190 Mr. Bean
+a0e3bd17d536862b Sailor Moon
+a0f5e637c872d591 Shaggy
+a0f6ffb74d89e862 Bart Simpson
+a20f677ed241ac52 Jack Sparrow
+a22cc2f7b18f7e52 Firefighter
+a45f1ae2f8f436e8 Sonic
+a960c64a7727eb6b Frankenstein
+a99ca4f63a731c47 Werewolf
+a9d7c3c3cee049f6 Patrick Star
+aa7b827f2bd0e828 Minion
+aaa2d480d73f4a50 Waluigi
+ab2ba4719c60f7d2 Eleventh Doctor
+b1638188730a9fc8 Homer Simpson
+b2de5270cfb9bc4a Wario
+b2e0b9805a5d90da Jack-o-lantern
+b3ea65643d410164 Kratos
+b4a505ffe093a521 Sonic
+b7765ded1f49b231 Joanna Dark
+b7fea73b33f3ac3e Lara Croft
+ba9ac8f4bc0d489d Master Chief
+babb74b06204bff6 Steve
+bbd943cebfcbf13f Darth Vader
+bc1ad188f35c1b63 Morty
+bcc78d9aee813005 Juno
+bd2e2e563293bb78 Sans
+bd344b96fdc10618 Plankton
+bfb1f882bf9d3733 Bugs Bunny
+c278064457ac597a Vegeta
+c3b34db8e45db24a Goofball
+c4937b2ff8b32ac0 Skedar
+c77851ced188ad76 Harry Potter
+ca82e52c85ddd1a9 Yoda
+cab5dd3c1ef98dce Dwight Schrute
+cacc80cb1632abe3 Hazard Crew
+cc3fe3d4ced8f887 Captain America
+cd3da474b26e7e24 Sailor Moon
+cdd29663b0ad5590 Squid Game Player
+ce171d52799adf08 Alec Trevelyan
+ce17ca73d2da83ae Squid Game Player
+cfad7df768e829c1 Among Us
+d0cb6de4b893e120 Mickey Mouse
+d1cb3bc2c773a1a2 Cat
+d261ed8599c7e063 Squidward
+d5b54bedbe802a6a Morty
+d5c83fcc03e879fe Penguin
+d6c499cf8d56ae54 Mario
+d73efddbd0a84c0a Police Officer
+d84753181a75e75e Ronald McDonald
+dbb3310505a0b051 Berri
+dd7c4d3a46f0aae7 Astronaut
+df69f4ff80938770 Marge Simpson
+dfb715bc5d8e8c44 Fire Mario
+e1148ace3fed9b6e Pennywise
+e26a47a25c694468 Bob Ross
+e331f96486f72b50 Fire Luigi
+e3f8413715836531 Daphne
+e4403d77bd942194 Homer Simpson
+e465b93eb8aec8da Conker
+e4b9aca186520f70 Goku
+e565589358d0430b Pikachu
+e5c8622285423552 Dracula
+e86fb1020608e394 Wile E. Coyote
+e8c4e377da2e0183 Sparkle Diva
+ea66dc8909dd3812 Indiana Jones
+ea6ffe4a096843aa Stormtrooper
+ec10aadac0775dfb Master Chief
+ed15f12daca18287 Minnie Mouse
+ee0a0d8928d7fcb0 Squidward
+ee61a7c2a9f41afb Lisa Simpson
+ef22be17aa77b2d0 Wolverine
+efc353808b403ec5 Joker
+f0b063650c27c219 Waluigi
+f0b67177fa8d6c6f Yoshi
+f3420be846268669 Doctor
+f3a7c2f96787373b Terminator
+f572af8923ebce95 James Bond
+f608efd40a24d194 Leprechaun
+f73edb38a07ce96b Luffy
+f7634e716fbe39a0 Hellboy
+f79ea7907ff9b077 Cat
+f8505ca286e2f742 Fry
+f99dadb43621403f Venom
+face786fa7a27d1e Waldo
+fcd52feccb1623f7 SpongeBob
+fd23990bcc185ea7 Scooby-Doo
+fde63c64e1b10c05 Oddjob
+fe2d2d7b4493b8c9 Woody
